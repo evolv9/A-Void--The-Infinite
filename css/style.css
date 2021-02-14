@@ -24,6 +24,7 @@ ul {
     padding-left: 20px;
     padding-right: 20px;
     color: #ffffff;
+    font-weight: bold;
 }
 
 .dark {
@@ -89,7 +90,7 @@ header a:hover {
 #showcase {
     min-height: 400px;
     background: url('../img/skyline.jpg') no-repeat center;
-    background-size: 100%;
+    background-size: auto;
     text-align: center;
     color: #ffffff;
 }
