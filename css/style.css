@@ -89,8 +89,7 @@ header a:hover {
 /* Showcase */
 #showcase {
     min-height: 400px;
-    background: url('../img/20200901_145158.jpg') no-repeat center;
-    background-size: 100%;
+    background: url('../img/2001_Space_Odyssey.jpg') no-repeat center;
     text-align: center;
     color: #ffffff;
 }
@@ -126,4 +125,9 @@ header a:hover {
     padding: 4px;
     height: 35px;
     width: 250px;
+}
+
+/* Media Queries */
+@media(max-width: 768px){
+    
 }
