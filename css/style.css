@@ -140,6 +140,16 @@ header a:hover {
     padding: 10px;
 }
 
+footer {
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #420a63;
+    text-align: center;
+}
+
 
 /* Media Queries */
 @media(max-width: 768px){
